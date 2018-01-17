@@ -1,0 +1,21 @@
+{
+  "customerId" : 123,
+  "name" : "Donald",
+  "dateOFBirth" : "1990-04-18T04:40:59.509+0000",
+  "annualSalary" : 70000.0,
+  "address" : [ {
+    "streetName" : "MacArthur Road",
+    "aptNo" : 0,
+    "city" : "Irving",
+    "zipCode" : 75063,
+    "state" : "TX",
+    "country" : "United States of America"
+  } ],
+  "payment" : {
+    "cardNumber" : 3.4296745E7,
+    "cardName" : "Jimmy Patel",
+    "dateFrom" : "2016-07-01T04:40:59.524+0000",
+    "dateTo" : "2018-01-17T05:40:59.524+0000",
+    "cardType" : [ "Credit Card", "Debit Card" ]
+  }
+}
